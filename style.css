@@ -5,12 +5,13 @@
 }
 
 .parent-container {
-  max-width: 800px;
+  max-width: 100px;
   margin: auto;
   background: rgb(197, 197, 197);
-  border-radius: 20px;
-  height: 500px;
+  border-radius: 5px;
+  height: 100px;
   margin-top: 80px;
+  position: relative;
 }
 
 .title {
@@ -20,8 +21,8 @@
 
 .little-box {
   position: absolute;
-  height: 25px;
-  width: 25px;
+  height: 20px;
+  width: 20px;
   background-color: coral;
   border-radius: 100%;
 }
