@@ -26,4 +26,4 @@ function moveBox() {
   requestAnimationFrame(moveBox); // to ensure smooth animation for this project
 }
 
-moveBox();
+// moveBox();
